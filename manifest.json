@@ -1,0 +1,14 @@
+{
+  "name": "Fake DM Generator",
+  "description": "gen fake dm from user",
+  "authors": [
+    {
+      "name": "otis",
+      "id": "0"
+    }
+  ],
+  "main": "index.ts",
+  "vendetta": {
+    "minVersion": "1.0.0"
+  }
+}
